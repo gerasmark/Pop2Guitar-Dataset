@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Wiz Khalifa - See You Again ft. Charlie Puth (Lyrics)
+  ytid: Cover my Kmusic and Design - See You Again
+  duration: 192
+  tuning_offset: 3
+song:
+  ytid: NDEWXnMRq3c
+  title: Wiz Khalifa - See You Again ft. Charlie Puth (Lyrics)
+  duration: 230
+  pitch_shift: 0
+  tuning_offset: 1
+tempo:
+  bpm: 161.8896484375
+  confidence: 1.0196999311447144

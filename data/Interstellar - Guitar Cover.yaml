@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Interstellar - Guitar Cover
+  ytid: Interstellar - Guitar Cover
+  duration: 234
+  tuning_offset: 2
+song:
+  ytid: kpz8lpoLvrA
+  title: Interstellar Main Theme - Hans Zimmer
+  duration: 244
+  pitch_shift: 0
+  tuning_offset: 5
+tempo:
+  bpm: 128.6492919921875
+  confidence: -0.16776017844676971

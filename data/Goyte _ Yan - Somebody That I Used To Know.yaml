@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Somebody That I Used To Know ｜ Gotye ｜ Lyrics Video
+  ytid: Goyte _ Yan - Somebody That I Used To Know
+  duration: 144
+  tuning_offset: 3
+song:
+  ytid: t_dLoOXy8PA
+  title: Somebody That I Used To Know ｜ Gotye ｜ Lyrics Video
+  duration: 244
+  pitch_shift: -5
+  tuning_offset: -18
+tempo:
+  bpm: 129.19386291503906
+  confidence: 2.804708957672119

@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: John Legend - All of Me (Lyrics)
+  ytid: Composer _ arranger - All of Me
+  duration: 280
+  tuning_offset: 3
+song:
+  ytid: WvWsHAcnRdo
+  title: John Legend - All of Me (Lyrics)
+  duration: 269
+  pitch_shift: -1
+  tuning_offset: 1
+tempo:
+  bpm: 125.94715881347656
+  confidence: 0.0991220474243164

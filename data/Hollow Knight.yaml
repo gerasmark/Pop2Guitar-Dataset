@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Hollow Knight
+  ytid: Hollow Knight
+  duration: 96
+  tuning_offset: 3
+song:
+  ytid: r6PuACnHkNY
+  title: Hollow Knight OST - Hollow Knight
+  duration: 97
+  pitch_shift: 4
+  tuning_offset: 5
+tempo:
+  bpm: 109.25361633300781
+  confidence: 0.687235414981842

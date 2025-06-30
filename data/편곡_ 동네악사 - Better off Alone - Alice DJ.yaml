@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Better Off Alone
+  ytid: 편곡_ 동네악사 - Better off Alone - Alice DJ
+  duration: 148
+  tuning_offset: 3
+song:
+  ytid: Ck0LO6b6OQc
+  title: Better Off Alone
+  duration: 218
+  pitch_shift: 1
+  tuning_offset: 4
+tempo:
+  bpm: 136.8311767578125
+  confidence: 2.3032145500183105

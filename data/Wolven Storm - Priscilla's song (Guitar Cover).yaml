@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Wolven Storm - Priscilla's song (Guitar Cover)
+  ytid: Wolven Storm - Priscilla's song (Guitar Cover)
+  duration: 193
+  tuning_offset: 3
+song:
+  ytid: 823yuWz0lto
+  title: The Witcher 3 Soundtrack - The Wolven Storm (Priscilla's song)
+  duration: 201
+  pitch_shift: 0
+  tuning_offset: 7
+tempo:
+  bpm: 151.35675048828125
+  confidence: 0.8862951397895813

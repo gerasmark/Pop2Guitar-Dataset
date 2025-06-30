@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Arr. Michael Tran - Yellow
+  ytid: Arr. Michael Tran - Yellow
+  duration: 204
+  tuning_offset: 3
+song:
+  ytid: tdVAqxNLXiw
+  title: Coldplay - Yellow
+  duration: 267
+  pitch_shift: 1
+  tuning_offset: 22
+tempo:
+  bpm: 86.67813873291016
+  confidence: 3.3910763263702393

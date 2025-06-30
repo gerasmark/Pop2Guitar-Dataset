@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Louis Armstrong - What A Wonderful World
+  ytid: Cover by Kmusic and Design - Wonderful World
+  duration: 110
+  tuning_offset: 3
+song:
+  ytid: VqhCQZaH4Vs
+  title: Louis Armstrong - What A Wonderful World
+  duration: 149
+  pitch_shift: 0
+  tuning_offset: 11
+tempo:
+  bpm: 99.12533569335938
+  confidence: 0.013522863388061523

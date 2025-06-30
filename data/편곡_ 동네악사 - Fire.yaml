@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)
+  ytid: 편곡_ 동네악사 - Fire
+  duration: 130
+  tuning_offset: 3
+song:
+  ytid: rO1ANdXvdTg
+  title: Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)
+  duration: 138
+  pitch_shift: -5
+  tuning_offset: 0
+tempo:
+  bpm: 125.01847076416016
+  confidence: 1.571796178817749

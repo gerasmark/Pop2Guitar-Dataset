@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Metric - Gimme Sympathy
+  ytid: Cover by Kmusic and Design - Gimme Sympothy
+  duration: 124
+  tuning_offset: 3
+song:
+  ytid: qUmYnnVsqao
+  title: Metric - Gimme Sympathy
+  duration: 235
+  pitch_shift: 3
+  tuning_offset: 0
+tempo:
+  bpm: 137.5034942626953
+  confidence: 2.2843499183654785

@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Thinkin Bout You
+  ytid: T. Moo - Think bout you
+  duration: 193
+  tuning_offset: 2
+song:
+  ytid: 6JHu3b-pbh8
+  title: Thinkin Bout You
+  duration: 201
+  pitch_shift: 0
+  tuning_offset: 1
+tempo:
+  bpm: 129.93946838378906
+  confidence: 2.12534499168396

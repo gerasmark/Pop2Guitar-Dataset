@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Kirameki
+  ytid: Kirameki
+  duration: 271
+  tuning_offset: 2
+song:
+  ytid: pXlthJ10JJ8
+  title: Kirameki (キラメキ) Wacci - Shigatsu wa Kimi no Uso
+  duration: 283
+  pitch_shift: 3
+  tuning_offset: 0
+tempo:
+  bpm: 97.94976043701172
+  confidence: 2.875176429748535

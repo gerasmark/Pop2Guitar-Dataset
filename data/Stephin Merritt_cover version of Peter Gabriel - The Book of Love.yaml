@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: The Book of Love
+  ytid: Stephin Merritt_cover version of Peter Gabriel - The Book of Love
+  duration: 165
+  tuning_offset: 3
+song:
+  ytid: RZzeAjyCFdM
+  title: The Book of Love
+  duration: 218
+  pitch_shift: -1
+  tuning_offset: 0
+tempo:
+  bpm: 140.22206115722656
+  confidence: -0.14815345406532288

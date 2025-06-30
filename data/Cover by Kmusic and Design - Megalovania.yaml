@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Undertale - Megalovania
+  ytid: Cover by Kmusic and Design - Megalovania
+  duration: 248
+  tuning_offset: 3
+song:
+  ytid: wDgQdr8ZkTw
+  title: Undertale - Megalovania
+  duration: 313
+  pitch_shift: 2
+  tuning_offset: 0
+tempo:
+  bpm: 119.97711181640625
+  confidence: 1.2300183773040771

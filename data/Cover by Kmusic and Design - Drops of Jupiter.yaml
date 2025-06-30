@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Train - Drops of Jupiter (Lyrics)
+  ytid: Cover by Kmusic and Design - Drops of Jupiter
+  duration: 357
+  tuning_offset: 3
+song:
+  ytid: cb3_e52oTHk
+  title: Train - Drops of Jupiter (Lyrics)
+  duration: 260
+  pitch_shift: -5
+  tuning_offset: 3
+tempo:
+  bpm: 162.31932067871094
+  confidence: 1.6912832260131836

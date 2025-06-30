@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Oh! Susanna - American Folk Song
+  ytid: Cover by Kmusic and Design - Oh Susanna
+  duration: 76
+  tuning_offset: 3
+song:
+  ytid: GUPRVkhBtVA
+  title: Oh! Susanna - American Folk Song
+  duration: 97
+  pitch_shift: 6
+  tuning_offset: 5
+tempo:
+  bpm: 92.3424301147461
+  confidence: 1.4045255184173584

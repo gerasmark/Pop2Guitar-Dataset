@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Mario David - November Rain
+  ytid: Mario David - November Rain
+  duration: 251
+  tuning_offset: 3
+song:
+  ytid: lRmJZIQfjbo
+  title: Guns N` Roses   November rain
+  duration: 540
+  pitch_shift: -4
+  tuning_offset: 0
+tempo:
+  bpm: 155.10250854492188
+  confidence: 1.6304200887680054

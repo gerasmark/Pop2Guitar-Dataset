@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Pietro Foti - Black Swan
+  ytid: Pietro Foti - Black Swan
+  duration: 198
+  tuning_offset: 3
+song:
+  ytid: TXYUhWdXt7k
+  title: BTS - Black Swan (Audio)
+  duration: 199
+  pitch_shift: 0
+  tuning_offset: 0
+tempo:
+  bpm: 147.03306579589844
+  confidence: 1.7096242904663086

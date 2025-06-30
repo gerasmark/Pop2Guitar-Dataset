@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Miley Cyrus - Adore You (Lyrics)
+  ytid: Cover by Kmusic and Design - Adore You
+  duration: 201
+  tuning_offset: 3
+song:
+  ytid: PHFuMJ6QsXQ
+  title: Miley Cyrus - Adore You (Lyrics)
+  duration: 279
+  pitch_shift: -3
+  tuning_offset: 1
+tempo:
+  bpm: 119.81112670898438
+  confidence: 2.284296751022339

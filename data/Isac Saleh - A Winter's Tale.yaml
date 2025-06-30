@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Isac Saleh - A Winter's Tale
+  ytid: Isac Saleh - A Winter's Tale
+  duration: 213
+  tuning_offset: 3
+song:
+  ytid: GVY6WKpl_Qo
+  title: TES V Skyrim Soundtrack - A Winter's Tale
+  duration: 202
+  pitch_shift: 0
+  tuning_offset: 33
+tempo:
+  bpm: 109.0801010131836
+  confidence: 1.6035668849945068

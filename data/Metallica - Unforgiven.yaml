@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Metallica - Unforgiven
+  ytid: Metallica - Unforgiven
+  duration: 251
+  tuning_offset: 3
+song:
+  ytid: bqME92xouFc
+  title: The Unforgiven (Radio Edit)
+  duration: 301
+  pitch_shift: 0
+  tuning_offset: 7
+tempo:
+  bpm: 139.5975799560547
+  confidence: 2.6749966144561768

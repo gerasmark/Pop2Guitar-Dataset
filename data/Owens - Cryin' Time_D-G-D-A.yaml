@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Cryin' Time
+  ytid: Owens - Cryin' Time_D-G-D-A
+  duration: 130
+  tuning_offset: 3
+song:
+  ytid: BvuxPKKWdRc
+  title: Cryin' Time
+  duration: 178
+  pitch_shift: -1
+  tuning_offset: -17
+tempo:
+  bpm: 67.6334457397461
+  confidence: 0.37890225648880005

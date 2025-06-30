@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Post Malone, Swae Lee - Sunflower (Live From The Studio)
+  ytid: Cover by Kmusic and Design - Sunflower
+  duration: 192
+  tuning_offset: 3
+song:
+  ytid: Lk0sZwXTwnc
+  title: Post Malone, Swae Lee - Sunflower (Live From The Studio)
+  duration: 247
+  pitch_shift: -4
+  tuning_offset: 1
+tempo:
+  bpm: 88.8907470703125
+  confidence: 2.0840654373168945

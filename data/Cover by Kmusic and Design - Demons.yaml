@@ -1,0 +1,15 @@
+piano:
+  uploader: guitar
+  title: Imagine Dragons - Demons (Lyric Video)
+  ytid: Cover by Kmusic and Design - Demons
+  duration: 248
+  tuning_offset: 3
+song:
+  ytid: pvrkfb1C4tE
+  title: Imagine Dragons - Demons (Lyric Video)
+  duration: 177
+  pitch_shift: 6
+  tuning_offset: 0
+tempo:
+  bpm: 89.77816009521484
+  confidence: 1.3322937488555908
