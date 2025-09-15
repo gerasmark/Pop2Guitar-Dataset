@@ -11,7 +11,7 @@ The Pop2Guitar dataset contains 40 pop songs paired with their corresponding gui
 - **Total pairs**: 40 song-guitar cover pairs
 - **Duration**: 2.52 hours
 - **Genre**: Primarily Western pop music
-- **Split**: 90-10 (36 training pairs, 4 validation/test pairs)
+- **Split**: 5-fold cross-validation for robust evaluation
 
 ## Metadata Format
 
